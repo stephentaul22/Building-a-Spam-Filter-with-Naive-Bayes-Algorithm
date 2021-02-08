@@ -1,1 +1,1 @@
-# Building-a-Spam-Filter-Using-the-Naive-Bayes-Algorithm-Guided-Project-15
+# Building-a-Spam-Filter-with-Naive-Bayes-Algorithm-Guided-Project-15
